@@ -1,0 +1,11 @@
+{
+  "version": "1.0.27",
+  "releaseDate": "2025-07-29",
+  "releaseNotes": "🚀 New features and bug fixes:\n\n• Improved app performance\n• Fixed login issues\n• Enhanced user interface\n• Better error handling",
+  "forceUpdate": true,
+  "minimumVersion": "1.0.25",
+  "updateUrl": {
+    "ios": "https://apps.apple.com/in/app/karax/id6740981057",
+    "android": "https://play.google.com/store/apps/details?id=com.karax.ai"
+  }
+}
