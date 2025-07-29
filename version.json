@@ -1,6 +1,6 @@
 {
   "ios": {
-    "version": "1.0.28",
+    "version": "1.0.27",
     "releaseDate": "2025-07-29",
     "releaseNotes": "🍎 iOS-specific improvements:\n\n• Enhanced iOS performance\n• Fixed iOS-specific bugs\n• Improved iOS UI elements\n• Better iOS compatibility",
     "forceUpdate": false,
@@ -8,10 +8,10 @@
     "updateUrl": "https://apps.apple.com/in/app/karax/id6740981057"
   },
   "android": {
-    "version": "1.0.28",
+    "version": "1.0.27",
     "releaseDate": "2025-07-29", 
     "releaseNotes": "🤖 Android-specific improvements:\n\n• Enhanced Android performance\n• Fixed Android-specific bugs\n• Improved material design\n• Better Android compatibility",
-    "forceUpdate": true,
+    "forceUpdate": false,
     "minimumVersion": "1.0.25",
     "updateUrl": "https://play.google.com/store/apps/details?id=com.karax.ai"
   },
