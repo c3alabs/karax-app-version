@@ -11,7 +11,7 @@
     "version": "1.0.28",
     "releaseDate": "2025-07-29", 
     "releaseNotes": "🤖 Android-specific improvements:\n\n• Enhanced Android performance\n• Fixed Android-specific bugs\n• Improved material design\n• Better Android compatibility",
-    "forceUpdate": false,
+    "forceUpdate": true,
     "minimumVersion": "1.0.25",
     "updateUrl": "https://play.google.com/store/apps/details?id=com.karax.ai"
   },
