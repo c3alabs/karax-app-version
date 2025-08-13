@@ -1,39 +1,39 @@
 {
-  "faq": {
-    "title": "FAQ & Helpdesk",
-    "icon": "❓",
-    "questions": [
-      {
-        "id": 1,
-        "question": "How do I get started with KaraX?",
-        "answer": "Sign up for an account and follow our onboarding guide to set up your first meeting.",
-      },
-      {
-        "id": 2,
-        "question": "What integrations are supported?",
-        "answer": "We support Google Meet, Microsoft Teams, Zoom, and many calendar applications.",
-      },
-      {
-        "id": 3,
-        "question": "How accurate is the transcription?",
-        "answer": "Our AI achieves 95%+ accuracy and continuously improves with machine learning.",
-      },
-      {
-        "id": 4,
-        "question": "Can I export my meeting data?",
-        "answer": "Yes, you can export transcripts, summaries, and action items in multiple formats.",
-      },
-      {
-        "id": 5,
-        "question": "Is my data secure?",
-        "answer": "Absolutely. We use enterprise-grade encryption and comply with GDPR, HIPAA, and SOC 2 standards.",
+  faq: {
+      title: "FAQ & Helpdesk",
+      icon: "❓",
+      questions: [
+        {
+          id: 1,
+          question: "How do I get started with KaraX?",
+          answer: "Sign up for an account and follow our onboarding guide to set up your first meeting."
+        },
+        {
+          id: 2,
+          question: "What integrations are supported?",
+          answer: "We support Google Meet, Microsoft Teams, Zoom, and many calendar applications."
+        },
+        {
+          id: 3,
+          question: "How accurate is the transcription?",
+          answer: "Our AI achieves 95%+ accuracy and continuously improves with machine learning."
+        },
+        {
+          id: 4,
+          question: "Can I export my meeting data?",
+          answer: "Yes, you can export transcripts, summaries, and action items in multiple formats."
+        },
+        {
+          id: 5,
+          question: "Is my data secure?",
+          answer: "Absolutely. We use enterprise-grade encryption and comply with GDPR, HIPAA, and SOC 2 standards."
+        }
+      ],
+      metadata: {
+        lastUpdated: "2025-08-13T10:30:00Z",
+        totalQuestions: 5,
+        supportEmail: "support@karax.ai",
+        supportUrl: "https://karax.ai/contact"
       }
-    ],
-    "metadata": {
-      "lastUpdated": "2025-08-13T10:30:00Z",
-      "totalQuestions": 5,
-      "supportEmail": "support@karax.ai",
-      "supportUrl": "https://karax.ai/contact"
     }
-  }
 }
