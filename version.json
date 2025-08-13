@@ -18,19 +18,23 @@
  "webapp": {
     "version": "1.0.28",
     "releaseDate": "2025-08-13",
-    "releaseNotes": "🌐 Enhanced AI Summaries:\n\n• Improved accuracy and faster processing for meeting summaries\n• Google Meet Integration available in v2.0.5\n• Enhanced web performance\n• Better PWA functionality",
+    "releaseNotes": "🌐 Latest Web Updates:\n\n• Razorpay integration for seamless payments in India\n• Survey rewards - get 15 days trial extension\n• AI-powered customer support for instant help\n• Enhanced web performance",
     "updateUrl": "https://karax.ai",
     "features": [
       {
-        "name": "Enhanced AI Summaries",
-        "description": "Improved accuracy and faster processing for meeting summaries",
+        "name": "Razorpay Integration",
+        "description": "Seamless payment gateway integration for Indian customers",
         "badge": "New"
       },
       {
-        "name": "Google Meet Integration",
-        "description": "Seamless integration with Google Meet for better meeting experience",
-        "badge": "Update",
-        "availableInVersion": "2.0.5"
+        "name": "Survey Rewards",
+        "description": "Take survey and get 15 days trial extension",
+        "badge": "New"
+      },
+      {
+        "name": "AI Customer Support",
+        "description": "Intelligent AI-powered customer support for instant assistance",
+        "badge": "New"
       }
     ]
   },
