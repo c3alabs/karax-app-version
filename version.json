@@ -15,6 +15,25 @@
     "minimumVersion": "1.0.25",
     "updateUrl": "https://play.google.com/store/apps/details?id=com.karax.ai"
   },
+ "webapp": {
+    "version": "1.0.28",
+    "releaseDate": "2025-08-13",
+    "releaseNotes": "🌐 Enhanced AI Summaries:\n\n• Improved accuracy and faster processing for meeting summaries\n• Google Meet Integration available in v2.0.5\n• Enhanced web performance\n• Better PWA functionality",
+    "updateUrl": "https://karax.ai",
+    "features": [
+      {
+        "name": "Enhanced AI Summaries",
+        "description": "Improved accuracy and faster processing for meeting summaries",
+        "badge": "New"
+      },
+      {
+        "name": "Google Meet Integration",
+        "description": "Seamless integration with Google Meet for better meeting experience",
+        "badge": "Update",
+        "availableInVersion": "2.0.5"
+      }
+    ]
+  },
   "metadata": {
     "lastUpdated": "2025-07-29T10:30:00Z",
     "appName": "Karax",
