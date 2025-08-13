@@ -1,0 +1,82 @@
+{
+  "faq": {
+    "title": "FAQ & Helpdesk",
+    "icon": "❓",
+    "questions": [
+      {
+        "id": 1,
+        "category": "getting-started",
+        "question": "How do I get started with KaraX?",
+        "answer": "Sign up for an account and follow our onboarding guide to set up your first meeting.",
+        "tags": ["onboarding", "setup", "account"],
+        "priority": "high"
+      },
+      {
+        "id": 2,
+        "category": "integrations",
+        "question": "What integrations are supported?",
+        "answer": "We support Google Meet, Microsoft Teams, Zoom, and many calendar applications.",
+        "tags": ["integrations", "platforms", "compatibility"],
+        "priority": "high"
+      },
+      {
+        "id": 3,
+        "category": "accuracy",
+        "question": "How accurate is the transcription?",
+        "answer": "Our AI achieves 95%+ accuracy and continuously improves with machine learning.",
+        "tags": ["transcription", "accuracy", "AI"],
+        "priority": "medium"
+      },
+      {
+        "id": 4,
+        "category": "export",
+        "question": "Can I export my meeting data?",
+        "answer": "Yes, you can export transcripts, summaries, and action items in multiple formats.",
+        "tags": ["export", "data", "formats"],
+        "priority": "medium"
+      },
+      {
+        "id": 5,
+        "category": "security",
+        "question": "Is my data secure?",
+        "answer": "Absolutely. We use enterprise-grade encryption and comply with GDPR, HIPAA, and SOC 2 standards.",
+        "tags": ["security", "privacy", "compliance", "encryption"],
+        "priority": "high"
+      }
+    ],
+    "categories": [
+      {
+        "id": "getting-started",
+        "name": "Getting Started",
+        "icon": "🚀"
+      },
+      {
+        "id": "integrations", 
+        "name": "Integrations",
+        "icon": "🔗"
+      },
+      {
+        "id": "accuracy",
+        "name": "Accuracy & Performance",
+        "icon": "🎯"
+      },
+      {
+        "id": "export",
+        "name": "Data Export",
+        "icon": "📤"
+      },
+      {
+        "id": "security",
+        "name": "Security & Privacy",
+        "icon": "🔒"
+      }
+    ],
+    "metadata": {
+      "lastUpdated": "2025-08-13T10:30:00Z",
+      "version": "1.0.0",
+      "totalQuestions": 5,
+      "supportEmail": "support@karax.ai",
+      "supportUrl": "https://karax.ai/support"
+    }
+  }
+}
