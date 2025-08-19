@@ -17,7 +17,7 @@
   },
  "webapp": {
     "version": "1.0.28",
-    "releaseDate": "2025-08-13",
+    "releaseDate": "2025-08-18",
     "releaseNotes": "🌐 Latest Web Updates:\n\n• Razorpay integration for seamless payments in India\n• Survey rewards - get 15 days trial extension\n• AI-powered customer support for instant help\n• Enhanced web performance",
     "updateUrl": "https://karax.ai",
     "features": [
