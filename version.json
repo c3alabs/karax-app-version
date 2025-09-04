@@ -1,8 +1,8 @@
 {
   "ios": {
-    "version": "1.0.27",
+    "version": "1.0.28",
     "releaseDate": "2025-07-29",
-    "releaseNotes": "🍎 iOS-specific improvements:\n\n• Enhanced iOS performance\n• Fixed iOS-specific bugs\n• Improved iOS UI elements\n• Better iOS compatibility",
+    "releaseNotes": "Added a brand-new Onboarding Page for smoother first-time setup, Fixed minor bugs and improved overall performance",
     "forceUpdate": false,
     "minimumVersion": "1.0.25",
     "updateUrl": "https://apps.apple.com/in/app/karax/id6740981057"
